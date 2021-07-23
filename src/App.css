@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@900&display=swap');
+.App {
+  text-align: center;
+}
+.indexing{
+  z-index: index 1;
+}
+body{
+  background-image: url(https://lh3.googleusercontent.com/proxy/PDJ8N1qIL0wR1bOfuWd02U0b6UW_MnvkOblo_0hWDFmlz-VRt0cnKlZP7RSKiBdSScb2avarduP8zz2pKPNOk5aTQsydperyO_M=s0-d) ;
+}
+.navl{
+  background-color:rgba(255, 255, 255, 0.8);
+  opacity: 0.6;
+  font-weight: bold;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.container{
+  position:relative;
+  top: 20vh;
+  left:10vh;
+  text-align:left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.c{
+  font-weight: bold;
+ font-size: 9vh;
+ color:whitesmoke;
+ position: relative;
+ top:45vh;
+}
+.c1{
+ font-weight: bold;
+ font-size: 9vh;
+ color:whitesmoke;
+}
+.c2{
+  font-weight: bold;
+ font-size: 18vh;
+ color:rgb(236, 253, 0);
+ text-shadow: 0 0 0.1em #8ba2d0, 0 0 0.2em black,  0 0 5em #165ff3;
+-webkit-text-stroke: 0.06em rgba(black, 0.5);
+}
+.c3{
+  font-weight: bold;
+ font-size: 4vh;
+ color:whitesmoke;
+}
+
+.a{
+  position:relative;
+  top:25vh;
+  text-align:left;
+  padding:2vh;
+  background-color: rgba(31, 30, 30, 0.7);
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+.part{
+  position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   z-index : -1 ;
+}
+.wrap{
+  display:inline-flex;
+  justify-content: center;
+  position: relative;
+  top:50vh ;
+}
+.pos{
+  position: relative;
+  top:50vh ;
+}
+.sizer{
+  width:100vh;
+  height:auto;
+}
+.w{
+  display:inline-flex;
+  justify-content: center;
+}
+.bgr{
+  background-color: rgba(31, 30, 30, 0.7);
+  height:auto;
+  width:60vh ; 
+  border-right: saddlebrown;
+  border-left: saddlebrown;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.adj{
+  font-size: 7vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:snow;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.fw{
+  height:80vh;
+  width:100%;
+  background-color: rgba(31, 30, 30, 0.7);
+  position:relative;
+  top:60vh; 
+  padding-left:5vh;
+  padding-top:5vh;
+  padding-bottom:10vh;
+  display: inline-flex;
+}
+.formdesign{
+  padding:2vh ;
+  margin:2vh;
+  background-color: rgba(31, 30, 30, 0.7);
+  color:white;
+  font-size: 3vh;
+}
+.bgr:hover{
+  background-color:rgba(247, 12, 12, 0.7);
+}
+.sizer:hover{
+  transform:scale(1.1) ;
+  transition: transform 0.5s ease-in;
+}
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
