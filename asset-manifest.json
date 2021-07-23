@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mlpage/static/css/main.0eeec7c2.chunk.css",
+    "main.js": "/mlpage/static/js/main.0069ede3.chunk.js",
+    "main.js.map": "/mlpage/static/js/main.0069ede3.chunk.js.map",
+    "runtime-main.js": "/mlpage/static/js/runtime-main.7370356e.js",
+    "runtime-main.js.map": "/mlpage/static/js/runtime-main.7370356e.js.map",
+    "static/js/2.479d0b54.chunk.js": "/mlpage/static/js/2.479d0b54.chunk.js",
+    "static/js/2.479d0b54.chunk.js.map": "/mlpage/static/js/2.479d0b54.chunk.js.map",
+    "static/js/3.1ff27969.chunk.js": "/mlpage/static/js/3.1ff27969.chunk.js",
+    "static/js/3.1ff27969.chunk.js.map": "/mlpage/static/js/3.1ff27969.chunk.js.map",
+    "index.html": "/mlpage/index.html",
+    "static/css/main.0eeec7c2.chunk.css.map": "/mlpage/static/css/main.0eeec7c2.chunk.css.map",
+    "static/js/2.479d0b54.chunk.js.LICENSE.txt": "/mlpage/static/js/2.479d0b54.chunk.js.LICENSE.txt",
+    "static/media/fb.a1b71861.PNG": "/mlpage/static/media/fb.a1b71861.PNG",
+    "static/media/ieeeju.c85d8284.PNG": "/mlpage/static/media/ieeeju.c85d8284.PNG",
+    "static/media/ieeeju2.1b7835bf.PNG": "/mlpage/static/media/ieeeju2.1b7835bf.PNG",
+    "static/media/ju.03190243.PNG": "/mlpage/static/media/ju.03190243.PNG",
+    "static/media/map.997d5644.PNG": "/mlpage/static/media/map.997d5644.PNG",
+    "static/media/twt.a97c04b2.PNG": "/mlpage/static/media/twt.a97c04b2.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7370356e.js",
+    "static/js/2.479d0b54.chunk.js",
+    "static/css/main.0eeec7c2.chunk.css",
+    "static/js/main.0069ede3.chunk.js"
+  ]
+}
